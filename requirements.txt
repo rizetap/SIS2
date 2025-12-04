@@ -1,0 +1,5 @@
+selenium==4.15.2
+pandas==2.1.3
+numpy==1.26.2
+webdriver-manager==4.0.1
+apache-airflow==3.0.0
